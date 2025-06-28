@@ -6,7 +6,8 @@ services:
     build:
       context: ./
       dockerfile: Dockerfile.python
-      image: cr.yandex/crp6jqsj0i4sre27dpem/app:0.0.1
+      tags:
+        - cr.yandex/crp6jqsj0i4sre27dpem/app:0.0.1
     restart: always
     environment:
       - DB_HOST=db
