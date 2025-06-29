@@ -6,4 +6,5 @@
 ![6 1](https://github.com/user-attachments/assets/468d5cde-e758-4a28-802e-77732b1266c4)
 ![6 2](https://github.com/user-attachments/assets/a4046ba2-9b2b-476b-a370-0b024645e71a)
 ![7](https://github.com/user-attachments/assets/255bfdf2-70ca-4c7d-990a-f1a2a0172448)
+
 Запуск RunC(все команды и конфиг) в файле Запуск RunC.txt
